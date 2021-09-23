@@ -21,6 +21,10 @@ gamemode_armsrace.cfg
 gamemode_casual.cfg
 gamemode_competitive.cfg
 gamemode_competitive2v2.cfg
+gamemode_competitive_short.cfg
+gamemode_deathmatch_short.cfg
+gamemode_deathmatch_tmm.cfg
+gamemode_dm_freeforall.cfg
 gamemode_cooperative.cfg
 gamemode_coopmission.cfg
 gamemode_custom.cfg
